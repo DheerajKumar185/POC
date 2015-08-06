@@ -9,8 +9,8 @@
 <body>
 <form action="CheckUser" method="post">
 	<pre>
-		User Name : <input type="text" name="userName"><br>
-		Password : <input type="password" name="password"><br>
+		User Name : <input type="text" name="userName" placeholder="userName"><br>
+		Password : <input type="password" name="password" placeholder="password"><br>
 		<br>
 		<input type="submit" value="Submit">		<input type="reset" value="Reset">
 	</pre>
